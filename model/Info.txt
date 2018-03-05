@@ -1,1 +1,3 @@
-Download detection module from here: https://drive.google.com/open?id=0B5k537ZMNlFAWXNEN3BEMFJaZG8
+Download detection model from here:
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+Use COCCO trained model. Search for 'model zoo tensorflow' if above link is not working.

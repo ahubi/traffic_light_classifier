@@ -1,0 +1,8 @@
+dataset/green
+dataset/red
+dataset/yellow
+checkpoints
+.ipynb_checkpoints
+model/*.h5
+model/*.pb
+!model/model_classification.pb

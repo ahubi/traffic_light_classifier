@@ -1,1 +1,2 @@
-Download files from here: https://www.dropbox.com/s/do8vdj2uf7qyzdj/dataset.zip?dl=1
+Use images from tl_small_images.zip.
+Extract them within dataset directory to have green, red, yellow folders.
